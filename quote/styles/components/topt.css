@@ -1,0 +1,13 @@
+.title_h1 {
+    font-family: 'Protest Strike', sans-serif;
+    text-align: center;
+    font-size: 5rem;
+    padding-top: 1rem;
+}
+
+.p1 {
+    display: flex;
+    text-align: justify;
+    padding: 2rem;
+    padding-left: 5em;
+    font-family: 'Agbalumo', system-ui;}

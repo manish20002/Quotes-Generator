@@ -1,0 +1,9 @@
+.icon {
+    display: flex;
+    flex-direction: initial;
+    align-content: center;
+    flex-direction: row;
+    height: 60px;
+    width: 60px;    
+    gap: 1rem;
+}

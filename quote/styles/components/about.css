@@ -1,0 +1,32 @@
+.title-about {
+    padding-top: 3%;
+    padding-bottom: 1%;
+    text-align: center;
+    font-size: 3rem;
+    font-family: 'Protest Strike', sans-serif;
+    font-weight: 500;
+}
+
+.about-text {
+    text-align: start;
+    font-weight: 500;
+    margin-top: 5px;
+    padding-top: 1px;
+    font-size: 25px;
+    font-family: "Fredoka", sans-serif;
+}
+
+
+.about-area {
+
+    padding: 5%;
+    padding-right: 5%;
+    font-size: 25px;
+    font-weight: 600;
+    border-radius: 11px 43px 43px 43px;
+    -moz-border-radius: 11px 43px 43px 43px;
+    -webkit-border-radius: 11px 43px 43px 43px;
+    border: 4px double #a747f1;
+    -moz-box-shadow: 2px 23px 20px -2px rgba(0, 0, 0, 0.75);
+    box-shadow: 2px 23px 20px -2px rgba(0, 0, 0, 0.75);
+}
